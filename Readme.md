@@ -12,7 +12,9 @@ Bem-vindo(a) ao repositório do **Jogo da Memória de Gravity Falls**! Este proj
 - **Desafiar sua memória**: Quanto mais rápido você encontrar os pares, melhor será seu desempenho.
 - **Divertir-se**: Afinal, é um jogo criado para proporcionar entretenimento enquanto praticamos programação!
 
-<img src="images/JogoDaMemoria.PNG" alt="Image" height="auto" width="600">
+<p align="center">
+<img src="images/JogoDaMemoria.PNG" alt="Image" height="auto" width="800">
+</p>
 
 ## 🚀 Tecnologias Utilizadas
 
