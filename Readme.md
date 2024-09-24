@@ -1,4 +1,4 @@
-<img src="images/logo.png" alt="Image" height="100" width="100" align-items="center">
+<img src="images/logo.png" alt="Image" height="100" width="100" align="center">
 
 # Jogo da Memória - Gravity Falls 🧠🎮
 
@@ -10,7 +10,7 @@ Bem-vindo(a) ao repositório do **Jogo da Memória de Gravity Falls**! Este proj
 - **Desafiar sua memória**: Quanto mais rápido você encontrar os pares, melhor será seu desempenho.
 - **Divertir-se**: Afinal, é um jogo criado para proporcionar entretenimento enquanto praticamos programação!
 
-<img src="images/JogoDaMemoria.png" alt="Image" height="400" width="600">
+<img src="images/JogoDaMemoria.PNG" alt="Image" height="400" width="600">
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -28,7 +28,7 @@ Inspiração e base de código vieram do tutorial do canal **Manual Dev** no You
 
 ## 🔗 Repositório
 
-Você pode conferir o código completo [aqui no GitHub](https://jogo-da-memoria-gih.netlify.app).
+Você pode conferir o código completo [aqui no GitHub🎮](https://jogo-da-memoria-gih.netlify.app).
 
 
 Sinta-se à vontade para explorar, fazer sugestões ou mesmo contribuir! 😄
