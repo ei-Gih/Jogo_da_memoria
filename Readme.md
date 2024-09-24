@@ -1,6 +1,4 @@
-<h1>Memory Card</h1> 
-
-<img src="images/logo.png" alt="Image" height="200" width="300">
+<img src="images/logo.png" alt="Image" height="100" width="100" align-items="center">
 
 # Jogo da Memória - Gravity Falls 🧠🎮
 
@@ -11,6 +9,8 @@ Bem-vindo(a) ao repositório do **Jogo da Memória de Gravity Falls**! Este proj
 - **Encontrar os pares de cartas**: Cada carta possui uma imagem relacionada à série Gravity Falls, e o objetivo é encontrar os pares correspondentes.
 - **Desafiar sua memória**: Quanto mais rápido você encontrar os pares, melhor será seu desempenho.
 - **Divertir-se**: Afinal, é um jogo criado para proporcionar entretenimento enquanto praticamos programação!
+
+<img src="images/JogoDaMemoria.png" alt="Image" height="400" width="600">
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -28,7 +28,8 @@ Inspiração e base de código vieram do tutorial do canal **Manual Dev** no You
 
 ## 🔗 Repositório
 
-Você pode conferir o código completo [aqui no GitHub](https://github.com/ei-Gih/Jogo_da_memoria).
+Você pode conferir o código completo [aqui no GitHub](https://jogo-da-memoria-gih.netlify.app).
+
 
 Sinta-se à vontade para explorar, fazer sugestões ou mesmo contribuir! 😄
 
