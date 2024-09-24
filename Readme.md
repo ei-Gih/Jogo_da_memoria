@@ -1,4 +1,4 @@
-<img src="images/logo.png" alt="Image" height="100" width="100" align="center">
+<img src="images/logo.png" alt="Image" height="100" width="200" align="center">
 
 # Jogo da Memória - Gravity Falls 🧠🎮
 
