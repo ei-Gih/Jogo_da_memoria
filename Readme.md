@@ -1,4 +1,6 @@
-<img src="images/logo.png" alt="Image" height="100" width="200" align="center">
+<p align="center">
+<img src="images/logo.png" alt="Image" height="100" width="200">
+</p>
 
 # Jogo da Memória - Gravity Falls 🧠🎮
 
@@ -10,7 +12,7 @@ Bem-vindo(a) ao repositório do **Jogo da Memória de Gravity Falls**! Este proj
 - **Desafiar sua memória**: Quanto mais rápido você encontrar os pares, melhor será seu desempenho.
 - **Divertir-se**: Afinal, é um jogo criado para proporcionar entretenimento enquanto praticamos programação!
 
-<img src="images/JogoDaMemoria.PNG" alt="Image" height="400" width="600">
+<img src="images/JogoDaMemoria.PNG" alt="Image" height="auto" width="600">
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -32,8 +34,8 @@ Você pode conferir o código completo [aqui no GitHub🎮](https://jogo-da-memo
 
 
 Sinta-se à vontade para explorar, fazer sugestões ou mesmo contribuir! 😄
-
-<img src="images/JogoDaMemoria.PNG" alt="Image" height="150" width="300" float="right">
-
+<p align="right">
+<img src="images/anao1.png" alt="Image" height="auto" width="300">
+</p>
 
 
