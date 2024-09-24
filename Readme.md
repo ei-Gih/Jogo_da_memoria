@@ -33,6 +33,7 @@ Você pode conferir o código completo [aqui no GitHub🎮](https://jogo-da-memo
 
 Sinta-se à vontade para explorar, fazer sugestões ou mesmo contribuir! 😄
 
+<img src="images/JogoDaMemoria.PNG" alt="Image" height="150" width="300" float="right">
 
 
 
